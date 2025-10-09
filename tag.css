@@ -1,0 +1,45 @@
+* {
+    background-color: beige;
+}
+
+.hding {
+    font-family: "BBH Sans Bogle", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    background-color: burlywood;
+    margin: 0px, 0px, 0px, 0px;
+    padding: 0px, 0px, 0px, 0px;
+
+}
+
+.hding2 {
+    font-family: "BBH Sans Bogle", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.tablehead {
+    font-family: "BBH Sans Bogle", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.box {
+    margin-bottom: 8px;
+    width: 250px;
+    border-radius: 15px;
+}
+
+.btn {
+    font-family: "Open Sans", sans-serif;
+    width: 100px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+}
+.btn:hover {
+    background-color: rgb(255, 230, 197);
+    cursor: pointer;
+}
+.para {
+  font-family: "Open Sans", sans-serif;
+}
